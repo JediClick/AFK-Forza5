@@ -3,8 +3,9 @@ AFK scripts for Forza 5
 
 Autohotkey 2.0 is required to run this script. Get it from https://www.autohotkey.com/
 
-; This script was created to work with the "Make Unlimited Money In Forza Horizon 5 With This New Money Glitch" blueprint
-; created by youtuber Forza Xpert - share code 741 027 831
+; This script was created to work with the "Forza Horizon 5 Money Race That Works on PlayStation - Fastest Unlimited Money and XP farm glitch"
+; https://www.youtube.com/watch?v=grZKMmyfxe8
+; created by youtuber NiceDriving - share code 741 027 831
 ; You will need to use a different tune code to automate the blueprint than what is shown in his video.
 ;
 ; tune code needed for 2010 Mosler MT900S 289 541 433
